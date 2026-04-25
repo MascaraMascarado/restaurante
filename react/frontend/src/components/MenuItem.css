@@ -1,0 +1,11 @@
+.menu-item {
+  transition: transform 0.3s ease;
+}
+
+.menu-item:hover {
+  transform: translateY(-4px);
+}
+
+.menu-item .btn-primary {
+  width: 100%;
+}
